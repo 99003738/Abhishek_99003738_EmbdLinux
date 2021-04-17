@@ -5,4 +5,4 @@ Folder             | Description
 -------------------| -----------------------------------------
 `Activity`   | All the activity problem given at the end of module
 `Hands_On`   | All the hands on activity done during the learning phase.
-
+`LR_Embedded_linux` | Contains the Learning Report 
